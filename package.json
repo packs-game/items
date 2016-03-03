@@ -1,0 +1,17 @@
+{
+	"name": "item",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.14.2",
+		"express": "^4.13.4",
+		"mongoose": "^4.4.2",
+		"packs-lib": "git+https://github.com/packs-game/packs-lib.git"
+	}
+}
